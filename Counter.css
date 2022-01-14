@@ -1,0 +1,28 @@
+.CounterButton{
+    font-size: 16px;
+    width: 100px;
+    padding: 15px 30px;
+    background-color:#3CB371;
+    color:white;
+    border-collapse: separate;
+}
+.Count{
+    font-size: 50px;
+    padding: 15px 30px;
+}
+CounterButton.reset{
+    width: 200px;
+    background-color:Red;
+}
+body{
+    margin-top:5%;
+    padding: 20px 30px;
+}
+label{
+    font-size: 50px;
+    width: 100px;
+    font-style:bold;
+    padding: 0px 11px;
+    color:blue;
+    background-color: salmon;
+}
